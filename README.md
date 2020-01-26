@@ -1,2 +1,2 @@
 # myFirstApi
-Uma API simples integrada com banco de dados
+Uma API node simples utilizando express e integrada com MongoDB
